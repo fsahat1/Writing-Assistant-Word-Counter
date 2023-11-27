@@ -19,3 +19,7 @@ Many writers still use analog writing methods such as writing by hand, in notebo
 
 **Eventual growth of project**
 - Social media aspect with progress sharing opportunities
+
+
+The application will be **free** if functional and released, and the code will stay open-source for all addendums under the GPL 3.0 License. Feel free to fix & edit. 
+Code that is taken from other sources will be credited in code comments and in additional documentation 
